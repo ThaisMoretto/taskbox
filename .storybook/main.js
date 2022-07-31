@@ -16,3 +16,5 @@ module.exports = {
     interactionsDebugger: true,
   },
 };
+
+// Storybook publicado: https://62e7127c6be980cbac868b4b-uxicrjfxei.chromatic.com/
