@@ -4,9 +4,6 @@ name: "Chromatic Deployment"
 # Event for the workflow
 on: push
 
-env:
-  secrets.GITHUB_TOKEN: d5fed0b28e34
-
 # List of jobs
 jobs:
   test:
